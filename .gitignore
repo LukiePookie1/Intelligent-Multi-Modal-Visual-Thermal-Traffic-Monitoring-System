@@ -25,6 +25,7 @@ datasets/
 models/
 *.h5
 *.pkl
+*.pth
 
 # Log files
 *.log
